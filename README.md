@@ -26,7 +26,7 @@ The goal of this home lab is to simulate real-world cybersecurity scenarios, foc
 
 ### Networking
 - **Configuration:**
-  - Private network within the virtualized environment using VirtualBox/VMware.
+  - Private network within the virtualized environment using VirtualBox.
   - Segmented attack and defending machines to emulate real-world network setups.
   - Ensured both machines can communicate securely for controlled testing.
 

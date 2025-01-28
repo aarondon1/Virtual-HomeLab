@@ -102,10 +102,6 @@ The goal of this home lab is to simulate real-world cybersecurity scenarios, foc
 
 ---
 
-## Screenshots
-Screenshots will be added to showcase configurations, attack scenarios, Splunk dashboards, and other key aspects of the lab setup.
+This documentation will be regularly updated as new components are added, experiments are conducted, and findings are analyzed to ensure a comprehensive learning and skill-building experience. Screenshots will also be added to showcase configurations, attack scenarios, Splunk dashboards, and other key aspects of the lab setup.
 
----
-
-This documentation will be regularly updated as new components are added, experiments are conducted, and findings are analyzed to ensure a comprehensive learning and skill-building experience.
 

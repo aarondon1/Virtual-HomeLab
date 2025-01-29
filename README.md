@@ -14,8 +14,17 @@
 ---
 
 ## 🎯 Objective
-The goal of this home lab is to simulate real-world cybersecurity scenarios in a sandbox environment, focusing on configuring and defending against attacks. The lab is designed to build practical skills in threat detection, incident response, and network defense.
+The goal of this home lab is to create a controlled sandbox environment that enables hands-on learning and experimentation with real-world cybersecurity threats, defenses, and mitigation techniques. By simulating various attack scenarios and implementing defensive security measures, this lab serves as a comprehensive training ground for developing practical skills in threat detection, incident response, digital forensics, and network security.
 
+The lab is designed to mirror real-world cybersecurity challenges, providing an interactive and iterative learning process through controlled attacks, monitoring, and analysis. By configuring and hardening systems against cyber threats, users can enhance their understanding of:
+
+- Attack Vectors & Exploitation: Learning how adversaries attempt to compromise systems through malware, brute-force attacks, phishing, and network-based exploits.
+- Security Logging & Monitoring: Implementing SIEM solutions (e.g., Splunk) to aggregate and analyze security logs, detect anomalies, and create alerts for suspicious activity.
+- Intrusion Detection & Prevention: Configuring tools like Sysmon, Snort, or Suricata to proactively identify and respond to potential threats.
+- Incident Response & Digital Forensics: Investigating attacks, analyzing log data, and applying forensic techniques to reconstruct security incidents.
+- Network Security & Defense Strategies: Setting up firewalls, VPNs, DNS sinkholes, and segmentation to protect sensitive systems from intrusion.
+  
+By continuously expanding and refining the lab setup, this project will serve as a living documentation of cybersecurity learning and skill development, simulating real-world security operations while reinforcing best practices in cyber defense, risk mitigation, and system hardening.
 ---
 
 ## 🏗️ Current Setup

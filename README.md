@@ -115,6 +115,10 @@ The goal of this home lab is to simulate real-world cybersecurity scenarios in a
 
 ## 📌 Future Updates
 
+- **Python Scripting Integration:**
+  - Plan to develop and implement Python scripts for automation, attack simulation, and security monitoring.
+  - Projects will include log analysis tools, network scanning scripts, intrusion detection automation, and malware analysis utilities.
+  - These scripts will interact with existing security tools like Sysmon, Splunk, IDS, and firewalls to enhance threat detection and response capabilities.
 - **Documentation:**
   - Log specific attack scenarios and security responses.
   - Publish sanitized configurations and logs to GitHub.

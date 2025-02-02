@@ -114,7 +114,10 @@ The goal of this home lab is to simulate real-world cybersecurity scenarios in a
 ---
 
 ## 📌 Future Updates
-
+- **Active Directory Implementation:**
+  - Currently building a Windows Server for Active Directory in the home lab.
+  - Configuring domain controllers, user authentication, and group policy management for enterprise security simulations.
+  - Integrating AD with existing security tools like Splunk and IDS for enhanced monitoring.
 - **Python Scripting Integration:**
   - Plan to develop and implement Python scripts for automation, attack simulation, and security monitoring.
   - Projects will include log analysis tools, network scanning scripts, intrusion detection automation, and malware analysis utilities.

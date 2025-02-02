@@ -135,6 +135,8 @@ The goal of this home lab is to simulate real-world cybersecurity scenarios in a
 
 *Screenshots of Splunk dashboards, attack scenarios, and configurations will be added here once I explore and experiment more with all these tools and situations better...*
 
+![image](https://github.com/user-attachments/assets/51300db6-a4cf-4412-a126-1f1b8d8c4b55)
+
 ---
 
 🔄 **This documentation will be regularly updated** as new components are added and security techniques are tested. Check back for progress updates! 🚀

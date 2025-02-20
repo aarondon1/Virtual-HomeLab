@@ -18,7 +18,7 @@
 
 The goal of this home lab is to create a controlled **sandbox environment** that enables hands-on learning and experimentation with real-world cybersecurity threats, defenses, and mitigation techniques. By simulating **various attack scenarios** and implementing **defensive security measures**, this lab serves as a comprehensive training ground for developing practical skills in **threat detection, incident response, digital forensics, and network security**.
 
-The lab is designed to mirror real-world cybersecurity challenges, providing an **interactive and iterative learning process** through controlled attacks, monitoring, and analysis. By configuring and hardening systems against cyber threats, users can enhance their understanding of:
+The lab is designed to mirror real-world cybersecurity challenges, providing an **interactive and iterative learning process** through controlled attacks, monitoring, and analysis. By configuring and hardening systems against cyber threats, I was able to enhance my understanding of:
 
 - **Attack Vectors & Exploitation:** Learning how adversaries attempt to compromise systems through malware, brute-force attacks, phishing, and network-based exploits.
 - **Security Logging & Monitoring:** Implementing **SIEM solutions** (e.g., Splunk) to aggregate and analyze security logs, detect anomalies, and create alerts for suspicious activity.
@@ -27,7 +27,9 @@ The lab is designed to mirror real-world cybersecurity challenges, providing an 
 - **Network Security & Defense Strategies:** Setting up **firewalls, VPNs, DNS sinkholes, and segmentation** to protect sensitive systems from intrusion.
 
 By continuously expanding and refining the lab setup, this project will serve as a **living documentation of cybersecurity learning and skill development**, simulating **real-world security operations** while reinforcing best practices in **cyber defense, risk mitigation, and system hardening**.
-The goal of this home lab is to simulate real-world cybersecurity scenarios in a sandbox environment, focusing on configuring and defending against attacks. The lab is designed to build practical skills in threat detection, incident response, and network defense.
+This home lab aims to simulate real-world cybersecurity scenarios in a sandbox environment, focusing on configuring and defending against attacks. The lab is designed to build practical skills in threat detection, incident response, and network defense.
+
+sidenote - I'm also currently going through Try Hack Me's SOC course (https://tryhackme.com/paths) to also familiarize myself with the skills used in the field, as well as cyber defenders (https://cyberdefenders.org/) to do more practical learning beyond theory
 
 ---
 
@@ -134,6 +136,8 @@ The goal of this home lab is to simulate real-world cybersecurity scenarios in a
 ## 🖼️ Screenshots and Logs
 
 *Screenshots of Splunk dashboards, attack scenarios, and configurations will be added here once I explore and experiment more with all these tools and situations better...*
+
+Current Initial setup of both VM systems:
 
 ![image](https://github.com/user-attachments/assets/51300db6-a4cf-4412-a126-1f1b8d8c4b55)
 
